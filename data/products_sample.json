@@ -1,0 +1,26 @@
+[
+  {
+    "brand": "Cetaphil",
+    "name": "Gentle Skin Cleanser",
+    "ingredients": ["water", "glycerin", "cocamidopropyl betaine"],
+    "tags": ["dry", "sensitive"]
+  },
+  {
+    "brand": "Beauty of Joseon",
+    "name": "Dynasty Cream",
+    "ingredients": ["ginseng root extract", "niacinamide", "rice bran water"],
+    "tags": ["dry", "normal"]
+  },
+  {
+    "brand": "The Inkey List",
+    "name": "Hyaluronic Acid Hydrating Serum",
+    "ingredients": ["water", "hyaluronic acid", "glycerin"],
+    "tags": ["dry", "normal"]
+  },
+  {
+    "brand": "The Inkey List",
+    "name": "Niacinamide Oil Control Serum",
+    "ingredients": ["water", "niacinamide", "zinc PCA"],
+    "tags": ["oily", "combination"]
+  }
+]
